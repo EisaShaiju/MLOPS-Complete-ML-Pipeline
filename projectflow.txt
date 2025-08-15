@@ -12,3 +12,6 @@ setting up dvc pipeline with params
 1. make params.yaml file
 2. import yaml and do the necessary functions for using the params in individual files
 3. now add params setup in the dvc pipeline and test it 
+
+looking into the performance of each experiment with the help of dvclive
+
