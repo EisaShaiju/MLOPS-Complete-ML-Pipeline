@@ -99,6 +99,3 @@ This repository demonstrates a complete MLOps workflow for building, training, a
 
 Feel free to open issues or submit pull requests for improvements!
 
-## License
-
-This project is licensed
